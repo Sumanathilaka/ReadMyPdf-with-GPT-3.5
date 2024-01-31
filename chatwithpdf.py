@@ -1,10 +1,3 @@
-#https://www.peoplesbank.lk/user-manual/
-
-#Queries
-#labena samanya sewa mnwda
-#naya sewa walata adala wisthara monawada
-#sthira thanpathu walata adala thorathuru laba dnna
-#ginum dekk athara mudal huwamaru karnne keseda
 
 import streamlit as st
 import os, yaml, textwrap, urljoin
